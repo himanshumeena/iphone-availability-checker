@@ -87,7 +87,6 @@ const finderFun = async function finder() {
     }
 } catch (e) {
     console.log("error",e);
-    debugger;
 }
     
 }
